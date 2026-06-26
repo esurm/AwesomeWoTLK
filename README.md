@@ -1,4 +1,4 @@
-# Install
+# 3.3.5 Client Installation
 
 Place the .dll file in the same folder as your wow.exe
 
