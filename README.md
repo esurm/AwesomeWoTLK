@@ -1,5 +1,6 @@
 # 3.3.5 Client Installation
 
-Place / replace the .dll file in the same folder as your wow.exe
+1. Place the .dll and .exe file in the same folder as your wow.exe
+2. Run AwesomeWotlkPatch.exe
 
-<img width="788" height="324" alt="image" src="https://github.com/user-attachments/assets/8779fc60-d9a0-407c-bdb6-cb0fe0e69425" />
+<img width="652" height="425" alt="image" src="https://github.com/user-attachments/assets/e2ff5e6e-a121-418b-9af9-6e7ef9fe7807" />
